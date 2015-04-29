@@ -14,6 +14,7 @@
 		636BB3CC1AED2F36008E3357 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 636BB3CB1AED2F36008E3357 /* Images.xcassets */; };
 		636BB3CF1AED2F36008E3357 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 636BB3CD1AED2F36008E3357 /* LaunchScreen.xib */; };
 		636BB3DB1AED2F36008E3357 /* GGPickerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 636BB3DA1AED2F36008E3357 /* GGPickerViewTests.m */; };
+		636BB3E61AED2F4E008E3357 /* GGPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 636BB3E51AED2F4E008E3357 /* GGPickerView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		636BB3D41AED2F36008E3357 /* GGPickerViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GGPickerViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		636BB3D91AED2F36008E3357 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		636BB3DA1AED2F36008E3357 /* GGPickerViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GGPickerViewTests.m; sourceTree = "<group>"; };
+		636BB3E41AED2F4E008E3357 /* GGPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GGPickerView.h; sourceTree = "<group>"; };
+		636BB3E51AED2F4E008E3357 /* GGPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGPickerView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		636BB3BD1AED2F36008E3357 /* GGPickerView */ = {
 			isa = PBXGroup;
 			children = (
+				636BB3E41AED2F4E008E3357 /* GGPickerView.h */,
+				636BB3E51AED2F4E008E3357 /* GGPickerView.m */,
 				636BB3C21AED2F36008E3357 /* AppDelegate.h */,
 				636BB3C31AED2F36008E3357 /* AppDelegate.m */,
 				636BB3C51AED2F36008E3357 /* ViewController.h */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				636BB3E61AED2F4E008E3357 /* GGPickerView.m in Sources */,
 				636BB3C71AED2F36008E3357 /* ViewController.m in Sources */,
 				636BB3C41AED2F36008E3357 /* AppDelegate.m in Sources */,
 				636BB3C11AED2F36008E3357 /* main.m in Sources */,
