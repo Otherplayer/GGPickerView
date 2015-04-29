@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DEFA0F11-B408-4CCB-AFA6-1DD4CFB225FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GGPickerView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B572207A5A69F16C04E88745AF7C509344760B12</key>
+		<string>github.com:Otherplayer/GGPickerView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GGPickerView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B572207A5A69F16C04E88745AF7C509344760B12</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Otherplayer/GGPickerView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B572207A5A69F16C04E88745AF7C509344760B12</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B572207A5A69F16C04E88745AF7C509344760B12</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GGPickerView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

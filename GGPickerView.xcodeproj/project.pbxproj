@@ -63,6 +63,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		63564F4D1AF10F570004DFAC /* PickerView */ = {
+			isa = PBXGroup;
+			children = (
+				636BB3E41AED2F4E008E3357 /* GGPickerView.h */,
+				636BB3E51AED2F4E008E3357 /* GGPickerView.m */,
+			);
+			name = PickerView;
+			sourceTree = "<group>";
+		};
 		636BB3B21AED2F36008E3357 = {
 			isa = PBXGroup;
 			children = (
@@ -84,8 +93,7 @@
 		636BB3BD1AED2F36008E3357 /* GGPickerView */ = {
 			isa = PBXGroup;
 			children = (
-				636BB3E41AED2F4E008E3357 /* GGPickerView.h */,
-				636BB3E51AED2F4E008E3357 /* GGPickerView.m */,
+				63564F4D1AF10F570004DFAC /* PickerView */,
 				636BB3C21AED2F36008E3357 /* AppDelegate.h */,
 				636BB3C31AED2F36008E3357 /* AppDelegate.m */,
 				636BB3C51AED2F36008E3357 /* ViewController.h */,
@@ -424,6 +432,7 @@
 				636BB3E01AED2F36008E3357 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		636BB3E11AED2F36008E3357 /* Build configuration list for PBXNativeTarget "GGPickerViewTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +441,7 @@
 				636BB3E31AED2F36008E3357 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
